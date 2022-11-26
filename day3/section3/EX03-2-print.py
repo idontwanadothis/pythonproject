@@ -1,6 +1,7 @@
 """
 print() 함수 사용법
     sep : 출력할 value의 구분 문자
+    end : value 출력 후 출력할 문자
 """
 print("재미있는", "파이썬")
 print("Python", "JAVA", "C", sep=',') # 사이사이에 해당 값이 들어가서 print 됨

@@ -19,4 +19,5 @@ print('a & b : {}'.format(a & b)) # 1
 print('a | b : {}'.format(a | b)) # 7
 print('a ^ b : {}'.format(a ^ b)) # 6
 print('~a : {}'.format(~a)) # 4
-
+print('a << 1 : {}'.format(a << 1)) # 6
+print('a >> 1 : {}'.format(a >> 1)) # 1
